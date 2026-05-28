@@ -6,7 +6,7 @@ This project analyzes customer churn using machine learning techniques.
 It was originally developed on Kaggle and later shared here for portfolio and collaboration purposes.
 
 ## 📊 Dataset
-- Source: [Kaggle Dataset](https://www.kaggle.com/)  
+- Source: [Kaggle Dataset](/kaggle/input/datasets/rjmanoj/credit-card-customer-churn-prediction/Churn_Modelling.csv )
 - Description: Contains customer demographics, account information, and churn labels.  
 - Note: Dataset is not uploaded here due to size restrictions. Please download directly from Kaggle.
 
