@@ -34,3 +34,14 @@ It was originally developed on Kaggle and later shared here for portfolio and co
 
 
 ## 📂 Repository Structure
+customer-churn-kaggle/
+├── notebooks/
+│   └── churn_analysis.ipynb     # Your Kaggle notebook
+├── data/
+│   └── README.md                # Instructions to download dataset from Kaggle
+├── src/
+│   └── utils.py                 # Helper functions (optional)
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+└── .gitignore                   # Ignore unnecessary files (e.g., large datasets, checkpoints)
+
